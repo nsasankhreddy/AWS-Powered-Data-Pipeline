@@ -13,7 +13,7 @@ This project showcases a robust and scalable data pipeline using AWS services to
 - **Chatbot**: Amazon Lex integrated with a web app for conversational queries.
 
 ## Architecture Diagram
-![Architecture](path/to/your/diagram.png)
+![Architecture](https://github.com/user-attachments/assets/757a23b3-f9c2-4072-8744-ca5bad5a5d47)
 
 ## AWS Services Used
 - Amazon S3
